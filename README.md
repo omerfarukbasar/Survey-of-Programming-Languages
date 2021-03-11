@@ -1,4 +1,4 @@
-# literate-octo-fiesta
+# Survey-of-Programming-Languages
 This contains coursework for the survey of programming languages class.
 
 This contains assignments and labs done with C, C++, and Scheme.
